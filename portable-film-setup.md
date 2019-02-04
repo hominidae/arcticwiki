@@ -19,7 +19,7 @@ There are also rumours that the Runcam 4 will be out soon. I am hoping to build 
 The Runcam 3S has a slightly larger profile than the GoPro Session 5. This means that custom mounting hardware will need to be designed to fit the Runcam 3S. I'm in the middle of working on that with my little brother now.  The Runcam 3S comes with two handy velcro straps. I am looking at using these to attach the Runcam 3S to a custom 3D printed mount which will need a GoPro mount adapter.
 
 ## GoPro Tripod Mount
-Luckily, there are already a large number of 3D printed designs for mounting a GoPro to a Tripod using a standard Tripod screw. And, they're compatible with GoPro enclosures so this is a no brainer.
+Luckily, there are already a large number of 3D printed designs for mounting a GoPro to a Tripod using a standard tripod mount screw. And, they're compatible with GoPro enclosures so this is a no brainer.
 
 ## Power pack
 The Runcam 3S comes with a microUSB adapter that can be connected to an external power supply. As a result, I will be looking at powering the Runcam 3S for prolonged recording with a battery pack consisting of several recycled 18650 battery cells, a TP4056 battery protection integrated circuit and a 3D printed battery case. Basically, its a slightly bigger and smarter version of the portable USB packs you can already purchase.
