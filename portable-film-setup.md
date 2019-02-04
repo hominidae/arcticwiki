@@ -7,7 +7,7 @@ I have acquired two Runcam 3S action cameras from [Banggood.](https://www.banggo
 
 There is an excellent review of these cameras from Oscar liang [here.](https://oscarliang.com/runcam-3s-camera/)
 
-Now these cameras can record 1080P at 60FPS and they're commonly used for FPV quad copter racing. [Here](https://www.youtube.com/watch?v=JnrZbmLtPvc) is a video of what that looks like.
+Now these cameras can record 1080P at 60FPS and they're commonly used for FPV quad copter racing. A video review of the Runcam 3S for FPV drone racing and what that looks like is available [here.](https://www.youtube.com/watch?v=JnrZbmLtPvc)
 
 The purpose of this page is to document my work at assembling a portable tripod mount for the Runcam 3S and adding a portable 18650 battery pack to power the Runcam 3S for pro-longed usage as a youtube filming rig.
 
