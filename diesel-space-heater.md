@@ -43,7 +43,12 @@ So, the solution requires exploring available technology, hardware and equipment
 
 We need to find a generator that runs on diesel. It needs to be lightweight and easy to ship. An inverter will need to be attached to it. That generator and inverter will need to power the heater and other systems for prolonged periods of time in between maintenace and if maintenance needs to be performed, it should be possible to do so in the field.
 
-## The hunt is on
+## The hunt is on for the right diesel generator
 I will begin documenting the search for a light weight diesel generator here. I have looked at several already, but they are usually bulky and rather heavy.
 
 So far, most of what I've been reading relies on solutions for sailing and small boats. One such resource I have found is [here.](http://www.cruisersforum.com/forums/f14/small-1kw-diesel-generator-101684.html) It's a fascinating read and is illustrative of the kind of diesel generator required.
+
+### The results so far:
+Here are the best options I've found so far:
+The Flex-Lite 2.5kW Diesel generator: http://www.aet.ca/index.php?section=50
+The Polar-Lite 2.4kW Diesel generator: http://www.aet.ca/index.php?section=51
