@@ -2,4 +2,6 @@
 <!-- SUBTITLE: Project Listing -->
 
 # Projects
-Updated list of projects here
+Diesel Space Heater
+Supercapacitor battery replacement
+Smart IoT block heater
