@@ -13,7 +13,7 @@ The purpose of this page is to document my work at assembling a portable tripod 
 
 In addition, my nephew has an older GoPro Hero 3. I will be 3D printing the mounting accessories and power pack to be compatible with both.
 
-There are also rumours that the Runcam 4 will be out soon. I am hoping to build a long distance FPV flying wing since the Runcam 4 will do 4K video at 30FPS and 2.7K at 60FPS and 1080P at 100FPS. Those would be a [major upgrade.](https://oscarliang.com/runcam-4-hd-camera/)
+There are also rumours that the Runcam 4 will be out soon. I am hoping to build a long distance FPV flying wing and that would be perfect for that application because the Runcam 4 will do 4K video at 30FPS, 2.7K at 60FPS, and 1080P at 100FPS. One of those would be a major [visual upgrade.](https://oscarliang.com/runcam-4-hd-camera/)
 
 ## Runcam Mount with GoPro adapter
 The Runcam 3S has a slightly larger profile than the GoPro Session 5. This means that custom mounting hardware will need to be designed to fit the Runcam 3S. I'm in the middle of working on that with my little brother now.  The Runcam 3S comes with two handy velcro straps. I am looking at using these to attach the Runcam 3S to a custom 3D printed mount which will need a GoPro mount adapter.
