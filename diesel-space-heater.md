@@ -50,5 +50,5 @@ So far, most of what I've been reading relies on solutions for sailing and small
 
 ### The results so far:
 Here are the best options I've found so far:
-The Flex-Lite 2.5kW Diesel generator: http://www.aet.ca/index.php?section=50
-The Polar-Lite 2.4kW Diesel generator: http://www.aet.ca/index.php?section=51
+[The Flex-Lite 2.5kW Diesel generator](http://www.aet.ca/index.php?section=50)
+[The Polar-Lite 2.4kW Diesel generator](http://www.aet.ca/index.php?section=51)
