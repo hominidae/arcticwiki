@@ -54,3 +54,8 @@ Here are the best options I've found so far:
 [The Polar-Lite 2.4kW Diesel generator](http://www.aet.ca/index.php?section=51)
 
 Either of these options is desirable since the both weigh only 108lbs and 110lbs respectively.
+
+# Application
+Provided the power issue can be overcome with a lightweight diesel generator, theoretically you could then embark on very long duration snow mobile trips. This could be accomplished using a single snowmobile and komatik to carry the diesel generator and the diesel (P-50) fuel to run it. Extension cables could then be run to other box komatik sleds to power diesel air heaters installed on them.
+
+The box komatik sleds would need to provide a small bit of very spartan living space, insulation and a carefully designed system to provide heat for the occupant of the sled box. The diesel air heater would provide an ample amount of heat for the size of the sled box but the air quality within the sled box would need to be carefully monitored to prevent carbon monoxide poisoning if the exhaust system from the diesel air heater ever malfunctioned or experienced a leak.
