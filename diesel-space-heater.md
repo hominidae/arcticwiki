@@ -95,3 +95,16 @@ Provided the power issue can be overcome with a lightweight diesel generator, th
 This could be accomplished using a single snowmobile and komatik to carry the diesel generator and all the diesel (P-50) fuel to run it. Extension cables could then be run to other box komatik sleds to power the diesel air heaters installed on them.
 
 The box komatik sleds would need to provide a small bit of very spartan living space, insulation and a carefully designed system to provide heat for the occupant of the sled box. The diesel air heater would provide an ample amount of heat for the size of the sled box but the air quality within the sled box would need to be carefully monitored to prevent carbon monoxide poisoning if the exhaust system from the diesel air heater ever malfunctioned or experienced a leak.
+
+# Raison d'etre
+Here's my reasoning, please tell me if you think it's off:
+
+The arctic is winter for effectively more than six months of the year. That is to say that there's snow on the ground, it's between -20 and -40 and during that time snow mobiles are the most effective method of travel.
+
+Given those conditions, the biggest influencing factor on the ability to travel long distances are fuel concerns. Gasoline is needed to run snowmobiles.
+
+As such, most trips require carefully planning for the amount of fuel needed to get from A to B. Since you need gasoline to run your high performance snow mobile the use of diesel fuel is therefore a more desirable option for producing heat and usable electricity in austere arctic conditions. They both also happen to be super economical in terms of fuel usage.
+
+If you wanted to do a multi-week trip by snow mobile, you'd need a light weight diesel generator you can throw in a sled box. Then you'd need to run extension cords to each sled box to power the diesel air heaters. It'd be cramped, but the advantages of having power and heat mean you can perform multiple tasks you probably otherwise couldn't. You could trickle charge your snowmobile batteries, utilize block heaters to start them, and battery warmers to keep the batteries from freezing.
+
+If all of the above is possible, you could actually take a four stroke, electric start snowmobile out and actually turn it off without worrying about being stranded.
