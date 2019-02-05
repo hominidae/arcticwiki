@@ -81,6 +81,14 @@ They also put out a little bit over 2,000 watts. That is plenty for running a va
 
 If your snow mobile won't start you can attach a block heater to it and recharge the battery if needed.
 
+### Other alternatives:
+One of the possible solutions to the portable power problem is building and assembling a miniature diesel stirling engine. Unfortunately, almost all motors on the market are designed for high output applications as there does not
+appear to be a market for 1kW to 3kW diesel generator engine designs.
+
+While small diesel engines can be found in the 108 to 110 lb weight catergory, they are not ideal since the installation of additional equipment is needed.
+
+One possible solution is to explore building a stirling engine with an atkinson cycle to ensure optimized and nearly complete fuel combustion. When coupled with a catalytic converter, the exhaust would be extremely minimal.
+
 # Application
 Provided the power issue can be overcome with a lightweight diesel generator, theoretically you could then embark on very long duration snow mobile trips.
 
