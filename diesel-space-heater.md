@@ -2,13 +2,11 @@
 <!-- SUBTITLE: A quick summary of Diesel Space Heater -->
 
 # Diesel Space Heater
-One of the things I am looking at is using compact, portable diesel air heaters as space heaters in arctic conditions.
+One of the things I am looking at is using compact, portable diesel air heaters as light weight space heaters for use in arctic conditions.
 
 There are diesel air heaters like the Webasto and Espar brand heaters that are used to heat heavy equipment, RV's, campers and mobile homes.
 
 So, I purchased a cheap chinese knock off of one. It's available here at [Banggood](https://www.banggood.com/24V12V-5kw-Diesel-Air-Parking-Heater-Diesel-Heating-Air-Parking-Heater-with-Digital-Switch-p-1252913.html)
-
-The reason I am doing this is I would like to examine one of these for use as a safe, portable heating system in arctic conditions.
 
 ## The specifications
 But first, let's explain the specs.
@@ -44,68 +42,4 @@ There are multiple reports that these small heaters can run reliably on kerosene
 
 That may be worth exploring.
 
-## The possible solution
-The solution to this problem involves finding a lightweight diesel electric generator that can provide enough power to power the diesel electric heater, provide adequete LED lighting,
-charge any personal electronics, and in emergencies start snowmobiles and re-charge snow mobile batteries.
 
-That solution sounds like it might be imaginary.
-
-I don't necessarily like re-inventing the wheel. What I prefer to do is what I have already done with security, alarm and surveillance systems for much of the last decade.
-Intelligent solutions involve integrating existing systems manufactured by subject matter experts who put out the best available and affordable functional products.
-
-If someone already builds a serviceable wheel, and all it needs is something to attach it to; it's your responsibility to attach it your hub.
-
-So, the solution requires exploring available technology, hardware and equipment that fulfill the very limited and rigidly defined specifications we've just defined.
-
-We need to find a generator that runs on diesel. It also needs to be lightweight and easy to ship.
-
-An inverter will need to be attached to it. That generator and inverter will need to power the heater and other systems for prolonged periods of time in between
-maintenace and if maintenance needs to be performed, it should be possible to do so in the field.
-
-## The hunt is on for the right diesel generator
-I will begin documenting the search for a light weight diesel generator here. I have looked at several already, but they are almost all bulky, rather heavy and expensive.
-
-So far, most of what I've been reading relies on solutions for sailing and small boats.
-
-One such resource I have found is [here.](http://www.cruisersforum.com/forums/f14/small-1kw-diesel-generator-101684.html)
-
-It's a fascinating read and is illustrative of the kind of diesel generator required for use in the arctic.
-
-### The results so far:
-Here are the best options I've found so far:
-[The Flex-Lite 2.5kW Diesel generator](http://www.aet.ca/index.php?section=50)
-[The Polar-Lite 2.4kW Diesel generator](http://www.aet.ca/index.php?section=51)
-
-Either of these options is desirable since the both weigh only 108lbs and 110lbs respectively.
-
-They also put out a little bit over 2,000 watts. That is plenty for running a variety of tasks.
-
-If your snow mobile won't start you can attach a block heater to it and recharge the battery if needed.
-
-### Other alternatives:
-One of the possible solutions to the portable power problem is building and assembling a miniature diesel stirling engine. Unfortunately, almost all motors on the market are designed for high output applications as there does not
-appear to be a market for 1kW to 3kW diesel generator engine designs.
-
-While small diesel engines can be found in the 108 to 110 lb weight catergory, they are not ideal since the installation of additional equipment is needed.
-
-One possible solution is to explore building a stirling engine with an atkinson cycle to ensure optimized and nearly complete fuel combustion. When coupled with a catalytic converter, the exhaust would be extremely minimal.
-
-# Application
-Provided the power issue can be overcome with a lightweight diesel generator, theoretically you could then embark on very long duration snow mobile trips.
-
-This could be accomplished using a single snowmobile and komatik to carry the diesel generator and all the diesel (P-50) fuel to run it. Extension cables could then be run to other box komatik sleds to power the diesel air heaters installed on them.
-
-The box komatik sleds would need to provide a small bit of very spartan living space, insulation and a carefully designed system to provide heat for the occupant of the sled box. The diesel air heater would provide an ample amount of heat for the size of the sled box but the air quality within the sled box would need to be carefully monitored to prevent carbon monoxide poisoning if the exhaust system from the diesel air heater ever malfunctioned or experienced a leak.
-
-# Raison d'etre
-Here's my reasoning, please tell me if you think it's off:
-
-The arctic is winter for effectively more than six months of the year. That is to say that there's snow on the ground, it's between -20 and -40 and during that time snow mobiles are the most effective method of travel.
-
-Given those conditions, the biggest influencing factor on the ability to travel long distances are fuel concerns. Gasoline is needed to run snowmobiles.
-
-As such, most trips require carefully planning for the amount of fuel needed to get from A to B. Since you need gasoline to run your high performance snow mobile the use of diesel fuel is therefore a more desirable option for producing heat and usable electricity in austere arctic conditions. They both also happen to be super economical in terms of fuel usage.
-
-If you wanted to do a multi-week trip by snow mobile, you'd need a light weight diesel generator you can throw in a sled box. Then you'd need to run extension cords to each sled box to power the diesel air heaters. It'd be cramped, but the advantages of having power and heat mean you can perform multiple tasks you probably otherwise couldn't. You could trickle charge your snowmobile batteries, utilize block heaters to start them, and battery warmers to keep the batteries from freezing. If you needed to work on your snowmobile in the field, you could throw up a tent around it and warm your work area.
-
-If all of the above is possible, you could actually take a four stroke, electric start snowmobile out and actually turn it off without worrying about being stranded.
