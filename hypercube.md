@@ -1,5 +1,5 @@
 <!-- TITLE: Hypercube -->
-	<!-- SUBTITLE: Custom Hypercube 3D Printer build -->
+<!-- SUBTITLE: Custom Hypercube 3D Printer build -->
 
 # Hypercube
 I began this project last year. I was wondering if I could 3D print the parts for a 3D printer. I chose the Hypercube design by Tech2C on Thingiverse [available here](https://www.thingiverse.com/thing:1752766)
