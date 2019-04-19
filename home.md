@@ -8,8 +8,6 @@
    A project involving the construction of a 200x200x200 3D printer.
 [Supercapacitor Boost Pack](http://wiki.arctichominid.ca/supercapacitor-boost-pack)
    I stole Thor's hammer and I'm using it to power things.
-[Solder Fume extractor](http://wiki.arctichominid.ca/solder-fume-extractor)
-   I needed a solder fume extractor, so I made one.
 [IoT block heater](http://wiki.arctichominid.ca/io-t-block-heater)
    I am looking at using an iTead Sonoff POW2 to control and measure power consumption of a block heater, battery warmer and battery charger combo. The reason for this is plugging your truck in all night doesn't make sense. Rather than wasting energy, ideally the block heater should kick in two to three hours before you need it.
 [Portable Film Setup](http://wiki.arctichominid.ca/portable-film-setup)
