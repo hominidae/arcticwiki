@@ -14,3 +14,7 @@
    I need a few tripod rigs for filming things.
 [FPV Quadcopters](http://wiki.arctichominid.ca/fpv-quadcopters)
    First person video quadcopter builds
+
+# Projects being planned
+[Planning Page](http://wiki.arctichominid.ca/planning)
+   Projects currently being planned
