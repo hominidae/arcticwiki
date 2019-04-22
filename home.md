@@ -24,6 +24,7 @@ Todo:
 
 These have really died in the water so to speak as I don't have an effective method of protecting the electronics against melting snow...yet.
 
+# Project Planning
 ## Wireless and RF systems
 Wireless networking:
 I will be testing a >5KM link with a pair of Ubiquiti Networks Nanostation 5AC Loco devices in the next couple of weeks. If the tests go well, I will be rolling out a community wireless network for serving up free open source content like Wikipedia, Ted Talks, etc.
