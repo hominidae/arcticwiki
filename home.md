@@ -1,6 +1,9 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Project Listing -->
 
+# Wiki issues:
+I am currently attempting to figure out why I can't submit photos to the wiki. Once I figure that out, more updates will occur.
+
 # Ongoing Projects
 [Diesel Space Heater](http://wiki.arctichominid.ca/diesel-space-heater)
    I have begun testing a 17,000 BTU diesel air heater. I'm exploring it's potential use as a portable heater for use in arctic conditions.
