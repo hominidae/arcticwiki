@@ -7,7 +7,7 @@ Wireless networking:
 I will be testing a >5KM link with a pair of Ubiquiti Networks Nanostation 5AC Loco devices in the next couple of weeks. If the tests go well, I will be rolling out a community wireless network for serving up free open source content like Wikipedia, Ted Talks, etc.
 
 LoraWAN networking:
-I will also be testing a 
+I will also be testing a small LoraWAN network using a [LoraWAN gateway](https://www.robotshop.com/ca/en/lg01-p-lora-gateway-915-mhz-north-america.html) and an [LSN50](https://www.robotshop.com/ca/en/lsn50-waterproof-long-range-wireless-lora-sensor-node-915-mhz.html) I picked up from [Robotshop.com](http://www.robotshop.com/ca/)
 
 Arctic ADS-B Receiver(s): This is part of a future project to provide localized flight tracking systems to several remote arctic communities for the purposes of public safety.
 I have ordered five AirNav Radarbox Flightsticks, these are specially designed specifically for ADS-B and are pretty economical.
