@@ -18,7 +18,7 @@ I have ordered a low noise amplifier and an upconverter for receipt of HF transm
 I already have a KerberoSDR which I'm looking at playing with as soon as I find a decent source for SMA connectors and RF cable.
 
 SATNOGS:
-Future tower system being planned for tracking passing satellites. I will likely fold in some form of reception for actively tracking satellites and constructing a multi-purpose RF reception tower. I'm planning on setting it up to eventually be capable of high gain reception of RF signals from DC to sunlight. (Just kidding)
+Future tower system being planned for tracking passing satellites. I will likely fold in some form of reception for actively tracking satellites and constructing a multi-purpose RF reception tower. I'm planning on setting it up to eventually be capable of high gain reception of a variety of RF signals.
 
 ## Plant monitoring systems
 AGI-ESP8266 project still in progress, a dozen esp8266 microcontrollers on hand pending completion of a side project for accurately bending copper pipe into fancy shapes.
