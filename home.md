@@ -12,14 +12,3 @@
    I am looking at using an iTead Sonoff POW2 to control and measure power consumption of a block heater, battery warmer and battery charger combo. The reason for this is plugging your truck in all night doesn't make sense. Rather than wasting energy, ideally the block heater should kick in two to three hours before you need it.
 [Portable Film Setup](http://wiki.arctichominid.ca/portable-film-setup)
    I need a few tripod rigs for filming things.
-	 
-# Smaller projects:
-## FPV Quadcopters:
-Currently have a total of two 5" FPV Quadcopters with controllers (1 custom build, 1 Eachine X220)
-
-Todo:
-- Silicone conformal coating required to waterproof electronics
-- Slica aerogel battery blanket required for LiPo's
-- Sort out camera and VTX issues, one Foxeer camera appears to be NTSC or shorted from destroyed PDB
-
-These have really died in the water so to speak as I don't have an effective method of protecting the electronics against melting snow...yet.
