@@ -21,3 +21,5 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
 # Projects being planned
 [Planning Page](http://wiki.arctichominid.ca/planning)
    Projects currently being planned
+[Arctic Tiny Home](http://wiki.arctichominid.ca/tinyhome)
+   Off-grid future living
