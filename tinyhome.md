@@ -19,7 +19,42 @@ In addition to the exterior membrane needing to be water proof, I also want to d
 
 Here is an excellent article on [a basic A-frame cabin design.](http://www.homedesigninteriors.com/how-to-build-an-a-frame-tiny-house-cabin.html)
 
-In future iterations of the cabin design, I will try different heating systems to gather more data.
+In future iterations of the cabin design, I will try different heating systems to gather more data on non-electric heating fuel burning heating systems.
+
+### Space Calculation
+Since the interior heating requirement to maintain the heaters efficient size is 144 square feet, the use of a trianglular shaped A-frame reduces the overall space that needs to be heated.
+
+In addition, the unusable space below 5 feet that cannot be considered living space can however be used as storage.
+
+And because the triangular A-frame is only being used to distribute the exterior weight of the snow, it isn't necessary to utilize insulation on the outer frame below the 5 foot threshold.
+
+What that means, is that the A-frame will still resemble a traditional box frame home, however, it will only resemble a traditional box frame when viewed from the interior.
+
+When the tiny home/cabin is viewed from the exterior, the outside membrane will still have the appearance of a giant triangle wedge. The triangle wedge will also need to be built in line with the prevailing wind direction from the north.
+
+In addition, because the sleeping area is intended to occupy the upper most portion of the triangle to allow for additional energy efficiency at night by reducing heating fuel usage the floor to ceiling must be at minimum 6 feet from the second recessed story.
+
+While it's tempting to add a lot of windows, windows and entry ways in the arctic are a major area for heat loss to occur.
+
+The formula for calculating the area of a rectangle is length times width. However, when calculating a triangle that formula becomes side a times side b times the base. The result of that is the square footage.
+
+Let's say we made an insulated base that was 12 feet by 16 feet. That's the pad. If that were a rectangle, the square footage would be 192 square feet.
+
+However, it isn't. We're using a triangle.
+
+How do we do some basic math to find the length of sides a and b? We know the base is 12 feet long. We also know that we should not consider any space under 5 feet to be living space. This is important because if it isn't living space, we are likely going to install storage space there. If we're installing storage space there, it likely won't be actively heated.
+
+So, we need to calculate 144 square feet of empty space.
+
+To do this, we're going to borrow the calculations from [here.](https://www.spikevm.com/how-to/gable-sq-ft.php)
+
+We will use those calculations to find out the minimum height we will need to place a raised second floor for a bed. The size of the bed is approximately 7 feet long.
+
+Now that we have a bunch of numbers, we should consider putting them all in one place:
+144 square feet minimum for empty space
+7 feet minimum for second level bed
+6 feet minimum for head height of second story
+
 
 ## 2. Utilities
 
