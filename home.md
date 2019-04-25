@@ -23,3 +23,13 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
    Projects currently being planned
 [Arctic Tiny Home](http://wiki.arctichominid.ca/tinyhome)
    Off-grid future living
+	 
+# Projects that require classification:
+1. Smart Shed
+2. Raspberry Pi Zero W Portable Security Camera system (5VDC @ 1A)
+    I checked into making these 3G/4G connected cameras but the power consumption is too high. This might still be tested in the future.
+3. Long Distance FPV Drone w/ APU and image stablized high resolution video
+4. Emergency Wildlife Taser
+5. LED grow lights
+6. AGI-ESP8266 IoT plant monitoring system
+7. CNC copper tubing and wire bending unit (Necessary for soil temperature regulation for AGI-ESP8266 project)
