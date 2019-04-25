@@ -19,6 +19,8 @@ In addition to the exterior membrane needing to be water proof, I also want to d
 
 Here is an excellent article on [a basic A-frame cabin design.](http://www.homedesigninteriors.com/how-to-build-an-a-frame-tiny-house-cabin.html)
 
+In future iterations of the cabin design, I will try different heating systems to gather more data.
+
 ## 2. Utilities
 
 ### Heat
