@@ -52,9 +52,11 @@ We will use those calculations to find out the minimum height we will need to pl
 
 Now that we have a bunch of numbers, we should consider putting them all in one place:
 144 square feet minimum for empty space
-7 feet minimum for second level bed
+7 feet minimum for second level bed lengthwise between sides a and sides b
 6 feet minimum for head height of second story
+12 feet for side c aka base
 
+So, we need to find the required length of sides a and sides b based on that.
 
 ## 2. Utilities
 
