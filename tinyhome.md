@@ -53,3 +53,8 @@ The living room area will need to serve multiple roles.
 
 ### Washrooms:
 A working septic system isn't in the cards...yet. As a result, an outhouse will likely need to be built nearby. God willing, I can also add a heated toilet seat to it. No one wants to drop a deuce sitting on a cold seat in the winter. That includes me. xD
+
+## 4. Design deadline
+The design deadline will be roughly approximated with the second sailing in this [PDF document via NEAS.ca](https://neas.ca/wp-content/uploads/sailing_schedule.pdf)
+
+Most of the construction material should be sourced locally, but a lot of the specialized equipment and hardware should make it on that barge.
