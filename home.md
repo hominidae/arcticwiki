@@ -33,3 +33,4 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
 5. LED grow lights
 6. AGI-ESP8266 IoT plant monitoring system
 7. CNC copper tubing and wire bending unit (Necessary for soil temperature regulation for AGI-ESP8266 project)
+8. Arctic Snowmobiling Mask
