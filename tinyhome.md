@@ -52,4 +52,4 @@ The living area of the tiny home will need to be carefully considered. There wil
 The living room area will need to serve multiple roles.
 
 ### Washrooms:
-A working septic system isn't in the cards...yet. As a result, an outhouse will likely need to be built nearby. God willing, I can also add a heated toilet seat to it. xD
+A working septic system isn't in the cards...yet. As a result, an outhouse will likely need to be built nearby. God willing, I can also add a heated toilet seat to it. No one wants to drop a deuce sitting on a cold seat in the winter. That includes me. xD
