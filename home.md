@@ -10,7 +10,7 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
 [Hypercube 3D Printer build](http://wiki.arctichominid.ca/hypercube)
    A project involving the construction of a 200x200x200 3D printer.
 [Supercapacitor Boost Pack](http://wiki.arctichominid.ca/supercapacitor-boost-pack)
-   I stole Thor's hammer and I'm using it to power things.
+   I stole Thor's hammer and I'm using it to power things. Examples include portable power, automotive instant rechargable boost pack and automotive battery replacement.
 [IoT block heater](http://wiki.arctichominid.ca/io-t-block-heater)
    I am looking at using an iTead Sonoff POW2 to control and measure power consumption of a block heater, battery warmer and battery charger combo. The reason for this is plugging your truck in all night doesn't make sense. Rather than wasting energy, ideally the block heater should kick in two to three hours before you need it.
 [Portable Film Setup](http://wiki.arctichominid.ca/portable-film-setup)
