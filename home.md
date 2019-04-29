@@ -30,7 +30,12 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
     I checked into making these 3G/4G connected cameras but the power consumption is too high. This might still be tested in the future.
 3. Long Distance FPV Drone w/ APU and image stablized high resolution video
 4. Emergency Wildlife Taser
-5. LED grow lights
-6. AGI-ESP8266 IoT plant monitoring system
-7. CNC copper tubing and wire bending unit (Necessary for soil temperature regulation for AGI-ESP8266 project)
-8. Arctic Snowmobiling Mask
+5. LED grow lights (Full spectrum LED COB modules, 110VAC, require significant heatsinking.)
+6. AGI-ESP8266 IoT plant monitoring system (HiGrow ESP32 module purchased for comparison data, requires programming)
+7. CNC copper tubing and wire bending unit (Necessary for soil temperature regulation for AGI-ESP8266 project, requires designing)
+8. Arctic Snowmobiling Mask (Requires 3D printed parts)
+
+# Small scale projects
+1. ESP8266 IoT sensor nodes
+    Wireless equipped (802.11b/g) microcontrollers for low power monitoring of Carbon Monoxide (MQ-7) and Temperature (DS18B20). Part of Smart Shed project.
+2. 28BYJ Stepper motor control library (Required for projects involving low torque stepper motor control)
