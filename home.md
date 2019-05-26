@@ -1,6 +1,10 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Project Listing -->
 
+
+# Priority List:
+- Secure 2x seacans for Greenhouse & Cabin project (PAID, waiting on delivery)
+- Transport via MTS building materials for greenhouse/tiny cabin
 # Wiki issues:
 I am currently attempting to figure out why I can't submit photos to the wiki. Once I figure that out, more updates will occur.
 
