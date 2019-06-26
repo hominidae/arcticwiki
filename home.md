@@ -4,8 +4,8 @@
 
 # Priority List:
 ## Todo:
-- Outfit construction seacan module for building offgrid cabin with woodworking tools/equipment
-- Plan materials list for MTS barge shipment
+- Outfit construction seacan module for building off-grid cabin with woodworking tools/equipment
+- Plan materials list for MTS barge shipment; complete NLT July 10th
 - Update Arctic Tiny Home project page with revised planning document/design/etc
 - Create modular greenhouse design page based on 8 feet x 8 feet x 8 feet modular "smart shed" design for insulation methods testing
 ## Wiki issues:
