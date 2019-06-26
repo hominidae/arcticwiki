@@ -3,11 +3,13 @@
 
 
 # Priority List:
-- Secure 2x seacans for Greenhouse & Cabin project (PAID, waiting on delivery)
-- Transport via MTS building materials for greenhouse/tiny cabin
-# Wiki issues:
+## Todo:
+- Outfit construction seacan module for building offgrid cabin with woodworking tools/equipment
+- Plan materials list for MTS barge shipment
+- Update Arctic Tiny Home project page with revised planning document/design/etc
+- Create modular greenhouse design page based on 8 feet x 8 feet x 8 feet modular "smart shed" design for insulation methods testing
+## Wiki issues:
 I am currently attempting to figure out why I can't submit photos to the wiki. Once I figure that out, more updates will occur.
-
 # Ongoing Projects
 [Diesel Space Heater](http://wiki.arctichominid.ca/diesel-space-heater)
    I have begun testing a 17,000 BTU diesel air heater. I'm exploring it's potential use as a portable heater for use in arctic conditions.
@@ -21,24 +23,21 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
    I need a few tripod rigs for filming things.
 [FPV Quadcopters](http://wiki.arctichominid.ca/fpv-quadcopters)
    First person video quadcopter builds
-
 # Projects being planned
 [Planning Page](http://wiki.arctichominid.ca/planning)
    Projects currently being planned
 [Arctic Tiny Home](http://wiki.arctichominid.ca/tinyhome)
-   Off-grid future living
-	 
+   Off-grid future living	 
 # Projects that require classification:
-1. Smart Shed
+1. Smart Shed (Update from memory based on lost wiki data)
 2. Raspberry Pi Zero W Portable Security Camera system (5VDC @ 1A)
-    I checked into making these 3G/4G connected cameras but the power consumption is too high. This might still be tested in the future.
-3. Long Distance FPV Drone w/ APU and image stablized high resolution video
-4. Emergency Wildlife Taser
-5. LED grow lights (Full spectrum LED COB modules, 110VAC, require significant heatsinking.)
+    I checked into making these 3G/4G connected cameras but the power consumption is too high. This might still be tested in the future. Need more 8MP Pi cameras and ribbon cables.
+3. Long Distance FPV Drone w/ APU and image stablized high resolution video (Requires Advanced RPAS certification or SFOC for larger 25kg drone)
+4. Emergency Wildlife Taser (Need hockey stick and time to take apart a transformer and re-wrapping with new wire)
+5. LED grow lights (Full spectrum LED COB modules, 110VAC, require significant heatsinking. 2x 5' LED modules arrived. Also test aerogarden with spices/herbs. Requires LED replacement bulbs.)
 6. AGI-ESP8266 IoT plant monitoring system (HiGrow ESP32 module purchased for comparison data, requires programming)
-7. CNC copper tubing and wire bending unit (Necessary for soil temperature regulation for AGI-ESP8266 project, requires designing)
+7. CNC copper tubing and wire bending unit (Necessary for soil temperature regulation for AGI-ESP8266 project, requires a complete design based on similar projects.)
 8. Arctic Snowmobiling Mask (Requires 3D printed parts)
-
 # Small scale projects
 1. ESP8266 IoT sensor nodes
     Wireless equipped (802.11b/g) microcontrollers for low power monitoring of Carbon Monoxide (MQ-7) and Temperature (DS18B20). Part of Smart Shed project.
