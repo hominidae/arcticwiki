@@ -29,7 +29,7 @@ I am currently attempting to figure out why I can't submit photos to the wiki. O
 [Arctic Tiny Home](http://wiki.arctichominid.ca/tinyhome)
    Off-grid future living	 
 # Projects that require classification:
-1. Smart Shed (Update from memory based on lost wiki data)
+1. Smart Shed (Update from memory based on lost wiki data, basically an 8'x8'x8' shed for testing different forms of insulation and construction methods for future modular -40 degree greenhouses.)
 2. Raspberry Pi Zero W Portable Security Camera system (5VDC @ 1A)
     I checked into making these 3G/4G connected cameras but the power consumption is too high. This might still be tested in the future. Need more 8MP Pi cameras and ribbon cables.
 3. Long Distance FPV Drone w/ APU and image stablized high resolution video (Requires Advanced RPAS certification or SFOC for larger 25kg drone)
