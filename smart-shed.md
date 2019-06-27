@@ -11,3 +11,6 @@ It's a pretty generic setup. Heat will be provided by a portable diesel electric
 
 ## Design 2:
 Same as above, but with 2x6 studs and R40 insulation. The interior dimensions are quite a bit less, but the overall efficiency should be improved.
+
+# Further reading:
+https://www.ecohome.net/guides/2299/painting-on-your-vapour-barrier/
