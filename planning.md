@@ -25,5 +25,5 @@ AGI-ESP8266 project still in progress, a dozen esp8266 microcontrollers on hand 
 
 Todo:
 3D print planters and figure out sealant
-~Purchase seeds~ Seeds are ready
+~~Purchase seeds~~ Seeds are ready
 Purchase components for building sand filled copper pipe bending CNC unit (Required for automating soil temperature window sill thermoregulation)
